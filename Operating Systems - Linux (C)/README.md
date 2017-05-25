@@ -1,0 +1,1 @@
+Communication between processes in a Linux environment using pipes.

@@ -1,0 +1,1 @@
+A database developed for a university course intented to be used by the conference of Model United Nations in Greece.
