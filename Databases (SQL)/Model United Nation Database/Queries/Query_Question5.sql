@@ -1,0 +1,4 @@
+SELECT C.NAME
+FROM Countries AS C INNER JOIN Countries_in_Committees AS D ON C.NAME = D.NAME 
+GROUP BY C.NAME 
+HAVING COUNT(*) = (SELECT COUNT(*) FROM Committees WHERE Conference=4)

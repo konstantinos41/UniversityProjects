@@ -1,0 +1,108 @@
+n=128 p=0.33 w=30
+Serial time: 0.019066
+Cuda A time: 0.079203
+Cuda B time: 0.001542
+Cuda C time: 0.007321
+PASS: All algorithms ran correctly.
+n=256 p=0.33 w=30
+Serial time: 0.144611
+Cuda A time: 0.085157
+Cuda B time: 0.007181
+Cuda C time: 0.074291
+PASS: All algorithms ran correctly.
+n=512 p=0.33 w=30
+Serial time: 1.114720
+Cuda A time: 0.125924
+Cuda B time: 0.049386
+Cuda C time: 0.150185
+PASS: All algorithms ran correctly.
+n=1024 p=0.33 w=30
+Serial time: 8.739267
+Cuda A time: 0.459084
+Cuda B time: 0.372499
+Cuda C time: 0.506152
+PASS: All algorithms ran correctly.
+n=2048 p=0.33 w=30
+Serial time: 71.605166
+Cuda A time: 2.868227
+Cuda B time: 2.902260
+Cuda C time: 2.418270
+PASS: All algorithms ran correctly.
+n=4096 p=0.33 w=30
+Serial time: 563.678965
+Cuda A time: 23.790663
+Cuda B time: 23.400388
+Cuda C time: 18.609671
+PASS: All algorithms ran correctly.
+n=128 p=0.45 w=30
+Serial time: 0.018977
+Cuda A time: 0.078967
+Cuda B time: 0.001533
+Cuda C time: 0.007375
+PASS: All algorithms ran correctly.
+n=256 p=0.45 w=30
+Serial time: 0.145000
+Cuda A time: 0.084681
+Cuda B time: 0.007176
+Cuda C time: 0.074302
+PASS: All algorithms ran correctly.
+n=512 p=0.45 w=30
+Serial time: 1.117968
+Cuda A time: 0.127012
+Cuda B time: 0.049442
+Cuda C time: 0.150211
+PASS: All algorithms ran correctly.
+n=1024 p=0.45 w=30
+Serial time: 8.767236
+Cuda A time: 0.456695
+Cuda B time: 0.372893
+Cuda C time: 0.506320
+PASS: All algorithms ran correctly.
+n=2048 p=0.45 w=30
+Serial time: 71.565480
+Cuda A time: 2.864574
+Cuda B time: 2.902800
+Cuda C time: 2.420629
+PASS: All algorithms ran correctly.
+n=4096 p=0.45 w=30
+Serial time: 562.307493
+Cuda A time: 23.771464
+Cuda B time: 23.386795
+Cuda C time: 18.536784
+PASS: All algorithms ran correctly.
+n=128 p=0.66 w=30
+Serial time: 0.019086
+Cuda A time: 0.078634
+Cuda B time: 0.001540
+Cuda C time: 0.007321
+PASS: All algorithms ran correctly.
+n=256 p=0.66 w=30
+Serial time: 0.144444
+Cuda A time: 0.085006
+Cuda B time: 0.007149
+Cuda C time: 0.074296
+PASS: All algorithms ran correctly.
+n=512 p=0.66 w=30
+Serial time: 1.114042
+Cuda A time: 0.126024
+Cuda B time: 0.049414
+Cuda C time: 0.150096
+PASS: All algorithms ran correctly.
+n=1024 p=0.66 w=30
+Serial time: 8.736263
+Cuda A time: 0.458944
+Cuda B time: 0.372587
+Cuda C time: 0.505840
+PASS: All algorithms ran correctly.
+n=2048 p=0.66 w=30
+Serial time: 71.618415
+Cuda A time: 2.863473
+Cuda B time: 2.904253
+Cuda C time: 2.418981
+PASS: All algorithms ran correctly.
+n=4096 p=0.66 w=30
+Serial time: 563.733699
+Cuda A time: 26.596562
+Cuda B time: 23.540158
+Cuda C time: 18.519685
+PASS: All algorithms ran correctly.

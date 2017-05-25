@@ -1,0 +1,17 @@
+This repo contains projects that I have developed as part of the university courses I attended while studying Electrical and Computer Engineering (Master) at the Aristotle Univeristy of Thessaloniki.
+
+Semester     -> Course (Language)
+2nd Semester -> Structured Programming (C)
+3rd Semester -> Programming Techniques (C++)
+4th Semester -> Computer Architecture (MIPS Assembly)
+5th Semester -> Data Structures (Java)
+6th Semester -> Discrete Mathematics (Python, C)
+7th Semester -> Computer Networks I (Java)
+                Operating Systems (C)
+                Parallel and Distributed Systems (C, C++, CUDA)
+                Microcomputers Systems (AVR Assembly)
+                Digital Signal Processing (Matlab)
+8th Semester -> Computer Networks II (Java)
+                Embedded Systems (C)
+                Microprocessors and Peripherals (AVR Assembly)
+9th Semester -> Databases (SQL)

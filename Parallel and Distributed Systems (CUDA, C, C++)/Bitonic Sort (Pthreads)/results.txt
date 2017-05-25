@@ -1,0 +1,519 @@
+16 1
+Qsort wall clock time              =  0.027958 PASS
+Imperative wall clock time         =  0.027802 PASS
+Recursive wall clock time          =  0.027114 PASS
+Pthreads recursive wall clock time =  0.009117 PASS
+OpenMP Imperative wall clock time  =  0.034668 PASS
+
+16 2
+Qsort wall clock time              =  0.028025 PASS
+Imperative wall clock time         =  0.027837 PASS
+Recursive wall clock time          =  0.027213 PASS
+Pthreads recursive wall clock time =  0.011231 PASS
+OpenMP Imperative wall clock time  =  0.031900 PASS
+
+16 3
+Qsort wall clock time              =  0.027954 PASS
+Imperative wall clock time         =  0.027805 PASS
+Recursive wall clock time          =  0.027167 PASS
+Pthreads recursive wall clock time =  0.008288 PASS
+OpenMP Imperative wall clock time  =  0.018741 PASS
+
+16 4
+Qsort wall clock time              =  0.027919 PASS
+Imperative wall clock time         =  0.027805 PASS
+Recursive wall clock time          =  0.027138 PASS
+Pthreads recursive wall clock time =  0.013733 PASS
+OpenMP Imperative wall clock time  =  0.015824 PASS
+
+16 5
+Qsort wall clock time              =  0.028365 PASS
+Imperative wall clock time         =  0.029556 PASS
+Recursive wall clock time          =  0.027220 PASS
+Pthreads recursive wall clock time =  0.013813 PASS
+OpenMP Imperative wall clock time  =  0.018425 PASS
+
+16 6
+Qsort wall clock time              =  0.359222 PASS
+Imperative wall clock time         =  0.028090 PASS
+Recursive wall clock time          =  0.027240 PASS
+Pthreads recursive wall clock time =  0.054528 PASS
+OpenMP Imperative wall clock time  =  0.651979 PASS
+
+16 7
+Qsort wall clock time              =  0.028252 PASS
+Imperative wall clock time         =  0.401630 PASS
+Recursive wall clock time          =  0.251342 PASS
+Pthreads recursive wall clock time =  0.152899 PASS
+OpenMP Imperative wall clock time  =  0.034583 PASS
+
+16 8
+Qsort wall clock time              =  0.027940 PASS
+Imperative wall clock time         =  0.027872 PASS
+Recursive wall clock time          =  0.027126 PASS
+Pthreads recursive wall clock time =  0.317412 PASS
+OpenMP Imperative wall clock time  =  0.037823 PASS
+
+
+
+17 1
+Qsort wall clock time              =  0.061318 PASS
+Imperative wall clock time         =  0.061132 PASS
+Recursive wall clock time          =  0.055256 PASS
+Pthreads recursive wall clock time =  0.018279 PASS
+OpenMP Imperative wall clock time  =  0.079572 PASS
+
+17 2
+Qsort wall clock time              =  0.061328 PASS
+Imperative wall clock time         =  0.061103 PASS
+Recursive wall clock time          =  0.055333 PASS
+Pthreads recursive wall clock time =  0.019441 PASS
+OpenMP Imperative wall clock time  =  0.048698 PASS
+
+17 3
+Qsort wall clock time              =  0.061614 PASS
+Imperative wall clock time         =  0.061142 PASS
+Recursive wall clock time          =  0.055254 PASS
+Pthreads recursive wall clock time =  0.016438 PASS
+OpenMP Imperative wall clock time  =  0.041759 PASS
+
+17 4
+Qsort wall clock time              =  0.061464 PASS
+Imperative wall clock time         =  0.061122 PASS
+Recursive wall clock time          =  0.055287 PASS
+Pthreads recursive wall clock time =  0.253367 PASS
+OpenMP Imperative wall clock time  =  0.029956 PASS
+
+17 5
+Qsort wall clock time              =  0.061464 PASS
+Imperative wall clock time         =  0.061222 PASS
+Recursive wall clock time          =  0.055295 PASS
+Pthreads recursive wall clock time =  0.021286 PASS
+OpenMP Imperative wall clock time  =  0.030411 PASS
+
+17 6
+Qsort wall clock time              =  0.061304 PASS
+Imperative wall clock time         =  0.064971 PASS
+Recursive wall clock time          =  0.055415 PASS
+Pthreads recursive wall clock time =  0.656925 PASS
+OpenMP Imperative wall clock time  =  0.071805 PASS
+
+17 7
+Qsort wall clock time              =  0.061869 PASS
+Imperative wall clock time         =  0.061378 PASS
+Recursive wall clock time          =  0.055602 PASS
+Pthreads recursive wall clock time =  0.035334 PASS
+OpenMP Imperative wall clock time  =  0.030838 PASS
+
+17 8
+Qsort wall clock time              =  0.061424 PASS
+Imperative wall clock time         =  0.061107 PASS
+Recursive wall clock time          =  0.055218 PASS
+Pthreads recursive wall clock time =  0.043296 PASS
+OpenMP Imperative wall clock time  =  0.032825 PASS
+
+
+
+18 1
+Qsort wall clock time              =  0.134552 PASS
+Imperative wall clock time         =  0.133745 PASS
+Recursive wall clock time          =  0.119888 PASS
+Pthreads recursive wall clock time =  0.038355 PASS
+OpenMP Imperative wall clock time  =  0.220793 PASS
+
+18 2
+Qsort wall clock time              =  0.134530 PASS
+Imperative wall clock time         =  0.133619 PASS
+Recursive wall clock time          =  0.119893 PASS
+Pthreads recursive wall clock time =  0.039345 PASS
+OpenMP Imperative wall clock time  =  0.708821 PASS
+
+18 3
+Qsort wall clock time              =  0.134532 PASS
+Imperative wall clock time         =  0.134212 PASS
+Recursive wall clock time          =  0.120406 PASS
+Pthreads recursive wall clock time =  0.034628 PASS
+OpenMP Imperative wall clock time  =  0.060416 PASS
+
+18 4
+Qsort wall clock time              =  0.138007 PASS
+Imperative wall clock time         =  0.134185 PASS
+Recursive wall clock time          =  0.119957 PASS
+Pthreads recursive wall clock time =  0.058566 PASS
+OpenMP Imperative wall clock time  =  0.080642 PASS
+
+18 5
+Qsort wall clock time              =  0.135913 PASS
+Imperative wall clock time         =  0.133963 PASS
+Recursive wall clock time          =  0.119895 PASS
+Pthreads recursive wall clock time =  0.038126 PASS
+OpenMP Imperative wall clock time  =  0.055103 PASS
+
+18 6
+Qsort wall clock time              =  0.134220 PASS
+Imperative wall clock time         =  0.134987 PASS
+Recursive wall clock time          =  0.120347 PASS
+Pthreads recursive wall clock time =  0.046765 PASS
+OpenMP Imperative wall clock time  =  0.056836 PASS
+
+18 7
+Qsort wall clock time              =  0.134198 PASS
+Imperative wall clock time         =  0.133644 PASS
+Recursive wall clock time          =  0.124306 PASS
+Pthreads recursive wall clock time =  0.056606 PASS
+OpenMP Imperative wall clock time  =  0.067123 PASS
+
+18 8
+Qsort wall clock time              =  0.134480 PASS
+Imperative wall clock time         =  0.138012 PASS
+Recursive wall clock time          =  0.119883 PASS
+Pthreads recursive wall clock time =  0.727711 PASS
+OpenMP Imperative wall clock time  =  0.062104 PASS
+
+
+
+19 1
+Qsort wall clock time              =  0.297787 PASS
+Imperative wall clock time         =  0.292402 PASS
+Recursive wall clock time          =  0.273472 PASS
+Pthreads recursive wall clock time =  0.074892 PASS
+OpenMP Imperative wall clock time  =  0.325635 PASS
+
+19 2
+Qsort wall clock time              =  0.298707 PASS
+Imperative wall clock time         =  0.293308 PASS
+Recursive wall clock time          =  0.274867 PASS
+Pthreads recursive wall clock time =  0.072977 PASS
+OpenMP Imperative wall clock time  =  0.207650 PASS
+
+19 3
+Qsort wall clock time              =  0.292776 PASS
+Imperative wall clock time         =  0.291861 PASS
+Recursive wall clock time          =  0.272816 PASS
+Pthreads recursive wall clock time =  0.071662 PASS
+OpenMP Imperative wall clock time  =  0.125516 PASS
+
+19 4
+Qsort wall clock time              =  0.292429 PASS
+Imperative wall clock time         =  0.291883 PASS
+Recursive wall clock time          =  0.272787 PASS
+Pthreads recursive wall clock time =  0.065433 PASS
+OpenMP Imperative wall clock time  =  0.117108 PASS
+
+19 5
+Qsort wall clock time              =  0.293843 PASS
+Imperative wall clock time         =  0.291929 PASS
+Recursive wall clock time          =  0.272909 PASS
+Pthreads recursive wall clock time =  0.071828 PASS
+OpenMP Imperative wall clock time  =  0.116569 PASS
+
+19 6
+Qsort wall clock time              =  0.292493 PASS
+Imperative wall clock time         =  0.291340 PASS
+Recursive wall clock time          =  0.272526 PASS
+Pthreads recursive wall clock time =  0.085991 PASS
+OpenMP Imperative wall clock time  =  0.107845 PASS
+
+19 7
+Qsort wall clock time              =  0.292846 PASS
+Imperative wall clock time         =  0.291477 PASS
+Recursive wall clock time          =  0.272594 PASS
+Pthreads recursive wall clock time =  0.087864 PASS
+OpenMP Imperative wall clock time  =  0.107479 PASS
+
+19 8
+Qsort wall clock time              =  0.292441 PASS
+Imperative wall clock time         =  0.291502 PASS
+Recursive wall clock time          =  0.272638 PASS
+Pthreads recursive wall clock time =  0.119417 PASS
+OpenMP Imperative wall clock time  =  0.115285 PASS
+
+
+
+20 1
+Qsort wall clock time              =  0.696702 PASS
+Imperative wall clock time         =  0.694304 PASS
+Recursive wall clock time          =  0.555430 PASS
+Pthreads recursive wall clock time =  0.148722 PASS
+OpenMP Imperative wall clock time  =  0.710388 PASS
+
+20 2
+Qsort wall clock time              =  0.665193 PASS
+Imperative wall clock time         =  0.663182 PASS
+Recursive wall clock time          =  0.554420 PASS
+Pthreads recursive wall clock time =  0.151434 PASS
+OpenMP Imperative wall clock time  =  0.424975 PASS
+
+20 3
+Qsort wall clock time              =  0.686455 PASS
+Imperative wall clock time         =  0.685582 PASS
+Recursive wall clock time          =  0.555590 PASS
+Pthreads recursive wall clock time =  0.132473 PASS
+OpenMP Imperative wall clock time  =  0.256628 PASS
+
+20 4
+Qsort wall clock time              =  0.646722 PASS
+Imperative wall clock time         =  0.643859 PASS
+Recursive wall clock time          =  0.554343 PASS
+Pthreads recursive wall clock time =  0.133053 PASS
+OpenMP Imperative wall clock time  =  0.258388 PASS
+
+20 5
+Qsort wall clock time              =  0.638625 PASS
+Imperative wall clock time         =  0.636625 PASS
+Recursive wall clock time          =  0.554360 PASS
+Pthreads recursive wall clock time =  0.145930 PASS
+OpenMP Imperative wall clock time  =  0.232221 PASS
+
+20 6
+Qsort wall clock time              =  0.683623 PASS
+Imperative wall clock time         =  0.682093 PASS
+Recursive wall clock time          =  0.554583 PASS
+Pthreads recursive wall clock time =  0.162063 PASS
+OpenMP Imperative wall clock time  =  0.225089 PASS
+
+20 7
+Qsort wall clock time              =  0.655115 PASS
+Imperative wall clock time         =  0.653379 PASS
+Recursive wall clock time          =  0.554381 PASS
+Pthreads recursive wall clock time =  0.172068 PASS
+OpenMP Imperative wall clock time  =  0.226027 PASS
+
+20 8
+Qsort wall clock time              =  0.696602 PASS
+Imperative wall clock time         =  0.695642 PASS
+Recursive wall clock time          =  0.554503 PASS
+Pthreads recursive wall clock time =  0.204401 PASS
+OpenMP Imperative wall clock time  =  0.237519 PASS
+
+
+
+21 1
+Qsort wall clock time              =  1.615882 PASS
+Imperative wall clock time         =  1.615700 PASS
+Recursive wall clock time          =  1.189247 PASS
+Pthreads recursive wall clock time =  0.306412 PASS
+OpenMP Imperative wall clock time  =  1.398754 PASS
+
+21 2
+Qsort wall clock time              =  1.579857 PASS
+Imperative wall clock time         =  1.577748 PASS
+Recursive wall clock time          =  1.187016 PASS
+Pthreads recursive wall clock time =  0.306763 PASS
+OpenMP Imperative wall clock time  =  0.901477 PASS
+
+21 3
+Qsort wall clock time              =  1.605898 PASS
+Imperative wall clock time         =  1.603842 PASS
+Recursive wall clock time          =  1.188876 PASS
+Pthreads recursive wall clock time =  0.264587 PASS
+OpenMP Imperative wall clock time  =  0.524079 PASS
+
+21 4
+Qsort wall clock time              =  1.592792 PASS
+Imperative wall clock time         =  1.590079 PASS
+Recursive wall clock time          =  1.188406 PASS
+Pthreads recursive wall clock time =  0.263375 PASS
+OpenMP Imperative wall clock time  =  0.515599 PASS
+
+21 5
+Qsort wall clock time              =  1.588324 PASS
+Imperative wall clock time         =  1.586570 PASS
+Recursive wall clock time          =  1.187434 PASS
+Pthreads recursive wall clock time =  0.287245 PASS
+OpenMP Imperative wall clock time  =  0.495003 PASS
+
+21 6
+Qsort wall clock time              =  1.594719 PASS
+Imperative wall clock time         =  1.591344 PASS
+Recursive wall clock time          =  1.189455 PASS
+Pthreads recursive wall clock time =  0.290773 PASS
+OpenMP Imperative wall clock time  =  0.479338 PASS
+
+21 7
+Qsort wall clock time              =  1.608240 PASS
+Imperative wall clock time         =  1.609060 PASS
+Recursive wall clock time          =  1.190246 PASS
+Pthreads recursive wall clock time =  0.343535 PASS
+OpenMP Imperative wall clock time  =  0.459712 PASS
+
+21 8
+Qsort wall clock time              =  1.585581 PASS
+Imperative wall clock time         =  1.586874 PASS
+Recursive wall clock time          =  1.188374 PASS
+Pthreads recursive wall clock time =  0.352688 PASS
+OpenMP Imperative wall clock time  =  0.470751 PASS
+
+
+
+22 1
+Qsort wall clock time              =  3.493237 PASS
+Imperative wall clock time         =  3.489364 PASS
+Recursive wall clock time          =  2.673881 PASS
+Pthreads recursive wall clock time =  0.642969 PASS
+OpenMP Imperative wall clock time  =  2.742006 PASS
+
+22 2
+Qsort wall clock time              =  3.519922 PASS
+Imperative wall clock time         =  3.512914 PASS
+Recursive wall clock time          =  2.673802 PASS
+Pthreads recursive wall clock time =  0.644579 PASS
+OpenMP Imperative wall clock time  =  1.687690 PASS
+
+22 3
+Qsort wall clock time              =  3.541773 PASS
+Imperative wall clock time         =  3.536366 PASS
+Recursive wall clock time          =  2.673462 PASS
+Pthreads recursive wall clock time =  0.534441 PASS
+OpenMP Imperative wall clock time  =  1.029896 PASS
+
+22 4
+Qsort wall clock time              =  3.525052 PASS
+Imperative wall clock time         =  3.520073 PASS
+Recursive wall clock time          =  2.674430 PASS
+Pthreads recursive wall clock time =  0.577721 PASS
+OpenMP Imperative wall clock time  =  1.042266 PASS
+
+22 5
+Qsort wall clock time              =  3.503350 PASS
+Imperative wall clock time         =  3.498870 PASS
+Recursive wall clock time          =  2.673877 PASS
+Pthreads recursive wall clock time =  0.542414 PASS
+OpenMP Imperative wall clock time  =  0.950964 PASS
+
+22 6
+Qsort wall clock time              =  3.499038 PASS
+Imperative wall clock time         =  3.493709 PASS
+Recursive wall clock time          =  2.675091 PASS
+Pthreads recursive wall clock time =  0.669252 PASS
+OpenMP Imperative wall clock time  =  0.908487 PASS
+
+22 7
+Qsort wall clock time              =  3.543383 PASS
+Imperative wall clock time         =  3.511241 PASS
+Recursive wall clock time          =  2.672438 PASS
+Pthreads recursive wall clock time =  0.674530 PASS
+OpenMP Imperative wall clock time  =  0.894096 PASS
+
+22 8
+Qsort wall clock time              =  3.580969 PASS
+Imperative wall clock time         =  3.580334 PASS
+Recursive wall clock time          =  2.668100 PASS
+Pthreads recursive wall clock time =  0.750115 PASS
+OpenMP Imperative wall clock time  =  0.957561 PASS
+
+
+
+23 1
+Qsort wall clock time              =  7.803937 PASS
+Imperative wall clock time         =  7.781658 PASS
+Recursive wall clock time          =  5.450120 PASS
+Pthreads recursive wall clock time =  1.338211 PASS
+OpenMP Imperative wall clock time  =  5.216830 PASS
+
+23 2
+Qsort wall clock time              =  7.725239 PASS
+Imperative wall clock time         =  7.720369 PASS
+Recursive wall clock time          =  5.447544 PASS
+Pthreads recursive wall clock time =  1.334095 PASS
+OpenMP Imperative wall clock time  =  3.287944 PASS
+
+23 3
+Qsort wall clock time              =  7.736413 PASS
+Imperative wall clock time         =  7.713062 PASS
+Recursive wall clock time          =  5.447711 PASS
+Pthreads recursive wall clock time =  1.123557 PASS
+OpenMP Imperative wall clock time  =  1.785343 PASS
+
+23 4
+Qsort wall clock time              =  7.761273 PASS
+Imperative wall clock time         =  7.747508 PASS
+Recursive wall clock time          =  5.460553 PASS
+Pthreads recursive wall clock time =  1.121184 PASS
+OpenMP Imperative wall clock time  =  1.759795 PASS
+
+23 5
+Qsort wall clock time              =  7.575579 PASS
+Imperative wall clock time         =  7.550791 PASS
+Recursive wall clock time          =  5.445656 PASS
+Pthreads recursive wall clock time =  1.129323 PASS
+OpenMP Imperative wall clock time  =  1.749066 PASS
+
+23 6
+Qsort wall clock time              =  7.727218 PASS
+Imperative wall clock time         =  7.706788 PASS
+Recursive wall clock time          =  5.446532 PASS
+Pthreads recursive wall clock time =  1.355563 PASS
+OpenMP Imperative wall clock time  =  1.747976 PASS
+
+23 7
+Qsort wall clock time              =  7.725770 PASS
+Imperative wall clock time         =  7.710602 PASS
+Recursive wall clock time          =  5.448231 PASS
+Pthreads recursive wall clock time =  1.434483 PASS
+OpenMP Imperative wall clock time  =  1.745874 PASS
+
+23 8
+Qsort wall clock time              =  7.733235 PASS
+Imperative wall clock time         =  7.716783 PASS
+Recursive wall clock time          =  5.450019 PASS
+Pthreads recursive wall clock time =  1.498455 PASS
+OpenMP Imperative wall clock time  =  1.737436 PASS
+
+
+
+24 1
+Qsort wall clock time              =  16.572816 PASS
+Imperative wall clock time         =  16.536005 PASS
+Recursive wall clock time          =  11.598300 PASS
+Pthreads recursive wall clock time =  2.794198 PASS
+OpenMP Imperative wall clock time  =  10.416527 PASS
+
+24 2
+Qsort wall clock time              =  16.325735 PASS
+Imperative wall clock time         =  16.531546 PASS
+Recursive wall clock time          =  11.595540 PASS
+Pthreads recursive wall clock time =  2.788306 PASS
+OpenMP Imperative wall clock time  =  6.411942 PASS
+
+24 3
+Qsort wall clock time              =  16.580386 PASS
+Imperative wall clock time         =  16.528934 PASS
+Recursive wall clock time          =  11.595969 PASS
+Pthreads recursive wall clock time =  2.308505 PASS
+OpenMP Imperative wall clock time  =  3.958556 PASS
+
+24 4
+Qsort wall clock time              =  16.581531 PASS
+Imperative wall clock time         =  16.528736 PASS
+Recursive wall clock time          =  11.596057 PASS
+Pthreads recursive wall clock time =  2.344135 PASS
+OpenMP Imperative wall clock time  =  3.701661 PASS
+
+24 5
+Qsort wall clock time              =  16.575085 PASS
+Imperative wall clock time         =  16.526848 PASS
+Recursive wall clock time          =  11.596850 PASS
+Pthreads recursive wall clock time =  2.322267 PASS
+OpenMP Imperative wall clock time  =  3.675209 PASS
+
+24 6
+Qsort wall clock time              =  16.580194 PASS
+Imperative wall clock time         =  16.528054 PASS
+Recursive wall clock time          =  11.592773 PASS
+Pthreads recursive wall clock time =  2.515431 PASS
+OpenMP Imperative wall clock time  =  3.658348 PASS
+
+24 7
+Qsort wall clock time              =  16.646826 PASS
+Imperative wall clock time         =  16.591485 PASS
+Recursive wall clock time          =  11.618258 PASS
+Pthreads recursive wall clock time =  2.678965 PASS
+OpenMP Imperative wall clock time  =  3.658786 PASS
+
+24 8
+Qsort wall clock time              =  16.584835 PASS
+Imperative wall clock time         =  16.533710 PASS
+Recursive wall clock time          =  11.595621 PASS
+Pthreads recursive wall clock time =  2.906203 PASS
+OpenMP Imperative wall clock time  =  3.649310 PASS

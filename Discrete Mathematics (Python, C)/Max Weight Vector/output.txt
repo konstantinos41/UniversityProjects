@@ -1,0 +1,2 @@
+Max Weight: 33
+Possible Vector with max Weight: 1 1 0 1
